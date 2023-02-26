@@ -1,0 +1,2 @@
+# MyDjango
+Recipi Web Application
